@@ -8,7 +8,7 @@ popular for scientific computing. Python is easy to learn, has a very
 clear syntax and can easily be extended with modules written in C, C++ 
 or FORTRAN.
 
-The Biopython web site (http://www.biopython.org) provides
+[The Biopython web site](http://www.biopython.org) provides
 an online resource for modules, scripts, and web links for developers
 of Python-based software for bioinformatics use and research. Basically,
 the goal of Biopython is to make it as easy as possible to use Python
